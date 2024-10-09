@@ -14,7 +14,7 @@
 
 	<groupId>io.github.nlscript</groupId>
 	<artifactId>nlFigure</artifactId>
-	<version>0.1.0</version>
+	<version>0.2.0</version>
 
 	<name>nlFigure</name>
 	<description>Create scientific figures using nlScript.</description>
