@@ -64,7 +64,7 @@ Fiji installation and restart Fiji.
 Set the title text to 'Mouse intestinal organoids'.
 Layout panels to make all rows the same height.
 Set the image title invisible.
-Modify image 'Organoid 1' to clear the overlay.
+Modify image 'organoid.tif' to clear the overlay.
 Set the panel label color to white.
 
 Set the headings text color to red.
@@ -78,35 +78,35 @@ Set the headings text of row 1 to 'Overview'.
 Set the headings text of row 2 to 'Zoom'.
 
 
-Modify image 'Organoid 1' to limit the field of view to (800 x 600) at (0, 0).
-Modify image 'Organoid 1' to show a 200 x 150 rectangle at (200, 150).
+Modify image 'organoid.tif' to limit the field of view to (800 x 600) at (0, 0).
+Modify image 'organoid.tif' to show a 200 x 150 rectangle at (200, 150).
 
 
-Modify image 'Organoid 1' to display channels 1.
-Add image 'Organoid 1' to panel (1, 1) matching the panel size.
+Modify image 'organoid.tif' to display channels 1.
+Add image 'organoid.tif' to panel (1, 1) matching the panel size.
 
-Modify image 'Organoid 1' to display channels 2.
-Add image 'Organoid 1' to panel (1, 2) matching the panel size.
+Modify image 'organoid.tif' to display channels 2.
+Add image 'organoid.tif' to panel (1, 2) matching the panel size.
 
 Set the image scalebar length to 20.
 Set the image scalebar visible.
-Modify image 'Organoid 1' to display channels 1, 2.
-Add image 'Organoid 1' to panel (1, 3) matching the panel size.
+Modify image 'organoid.tif' to display channels 1, 2.
+Add image 'organoid.tif' to panel (1, 3) matching the panel size.
 Set the image scalebar invisible.
 
 
-Modify image 'Organoid 1' to limit the field of view to (200 x 150) at (200, 150).
-Modify image 'Organoid 1' to clear the overlay.
+Modify image 'organoid.tif' to limit the field of view to (200 x 150) at (200, 150).
+Modify image 'organoid.tif' to clear the overlay.
 
-Modify image 'Organoid 1' to display channels 1.
-Add image 'Organoid 1' to panel (2, 1) matching the panel size.
+Modify image 'organoid.tif' to display channels 1.
+Add image 'organoid.tif' to panel (2, 1) matching the panel size.
 
-Modify image 'Organoid 1' to display channels 2.
-Add image 'Organoid 1' to panel (2, 2) matching the panel size.
+Modify image 'organoid.tif' to display channels 2.
+Add image 'organoid.tif' to panel (2, 2) matching the panel size.
 
 Set the image scalebar visible.
-Modify image 'Organoid 1' to display channels 1, 2.
-Add image 'Organoid 1' to panel (2, 3) matching the panel size.
+Modify image 'organoid.tif' to display channels 1, 2.
+Add image 'organoid.tif' to panel (2, 3) matching the panel size.
 ```
 
 ## License
