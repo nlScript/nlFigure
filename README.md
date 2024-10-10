@@ -10,6 +10,15 @@ In nlFigure, a novel plugin for [Fiji](https://fiji.sc), figures are not compose
 textual instructions, which helps to automate the workflow and guarantees reproducibility, while still remaining
 intuitive to use. nlFigure is based on [nlScript](https://github.com/nlScript/nlScript-java).
 
+<img style="max-width: 500px; margin: auto; display: block; filter: drop-shadow(2px 2px 5px #000);" src="example-figure.png"/>
+
+```
+Set the title text to 'Mouse intestinal organoids'.
+Layout panels to make all rows the same height.
+...
+(see below)
+```
+
 ## Installation
 Download [nlFigure](https://github.com/nlScript/nlFigure/releases/download/v0.2.0/nlFigure-0.2.0.jar) from the
 [GitHub release page](https://github.com/nlScript/nlFigure/releases), copy it to the plugins folder inside your
@@ -48,17 +57,13 @@ Fiji installation and restart Fiji.
 
 
 ## Demo
+To generate the figure displayed at the top of the page:
 - Download the demo image: [organoid.tif](https://github.com/nlScript/nlFigure/releases/download/v0.2.0/organoid.tif)
 - Start Fiji
 - Open the demo image by dragging it into the Fiji window
 - Run the `nlFigure` command (`>Plugins>nlFigure`)
 - Paste the text below into the text field
 - Click on `Run`.
-
-
-<img style="max-width: 700px; margin: auto; display: block; filter: drop-shadow(2px 2px 5px #000);" src="example-figure.png"/>
-
-
 
 ```
 Set the title text to 'Mouse intestinal organoids'.
