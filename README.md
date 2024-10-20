@@ -20,7 +20,7 @@ Layout panels to make all rows the same height.
 ```
 
 ## Installation
-Download [nlFigure](https://github.com/nlScript/nlFigure/releases/download/v0.2.0/nlFigure-0.2.0.jar) from the
+Download [nlFigure](https://github.com/nlScript/nlFigure/releases/download/v0.3.0/nlFigure-0.3.0.jar) from the
 [GitHub release page](https://github.com/nlScript/nlFigure/releases), copy it to the plugins folder inside your
 Fiji installation and restart Fiji.
 
